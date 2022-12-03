@@ -1,16 +1,33 @@
 ## skills
+hello! I am a developer living in Japan.
 
 ### Languages
 
-<img src="./icons/golang.svg" width="50px">
-<img src="./icons/square-js.svg" width="50px">
+* Golang
+* Perl
+* HTML, JavaScript, CSS
 
 ### Libraries and FrameWorks
 
-### Middlewares
+* Next.js
+
+### Middlewares (Databases)
+
+* Apache2
+* Nginx
+* Redis
+* PostgreSQL, MySQL
 
 ### Cloud
 
+* GCP
+* AWS
+* SakuraCloud
+
 ### Editors
 
+* VSCode
+
 ### Tools
+
+* Github
